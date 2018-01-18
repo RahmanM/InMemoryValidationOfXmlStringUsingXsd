@@ -1,0 +1,13 @@
+D:\rahman\ValidateXmlByXsd\obj\Debug\ValidateXmlByXsd.csprojResolveAssemblyReference.cache
+D:\rahman\ValidateXmlByXsd\bin\Debug\ValidateXmlByXsd.exe.config
+D:\rahman\ValidateXmlByXsd\bin\Debug\ValidateXmlByXsd.exe
+D:\rahman\ValidateXmlByXsd\bin\Debug\ValidateXmlByXsd.pdb
+D:\rahman\ValidateXmlByXsd\obj\Debug\ValidateXmlByXsd.exe
+D:\rahman\ValidateXmlByXsd\obj\Debug\ValidateXmlByXsd.pdb
+D:\rahman\InMemoryValidationOfXmlStringUsingXsd\bin\Debug\ValidateXmlByXsd.exe.config
+D:\rahman\InMemoryValidationOfXmlStringUsingXsd\bin\Debug\ValidateXmlByXsd.exe
+D:\rahman\InMemoryValidationOfXmlStringUsingXsd\bin\Debug\ValidateXmlByXsd.pdb
+D:\rahman\InMemoryValidationOfXmlStringUsingXsd\obj\Debug\ValidateXmlByXsd.csprojResolveAssemblyReference.cache
+D:\rahman\InMemoryValidationOfXmlStringUsingXsd\obj\Debug\ValidateXmlByXsd.exe
+D:\rahman\InMemoryValidationOfXmlStringUsingXsd\obj\Debug\ValidateXmlByXsd.pdb
+D:\rahman\InMemoryValidationOfXmlStringUsingXsd\bin\Debug\xmlschema.xsd
